@@ -25,3 +25,4 @@
 ----------------------------------
 
 7- Stacer derlenecek
+8- Flameshot incelenecek
