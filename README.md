@@ -8,3 +8,5 @@
 
 4- Stacer derlenecek 
 
+5- file-roller Türkçe değil
+
