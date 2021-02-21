@@ -10,3 +10,7 @@
 
 5- file-roller Türkçe değil
 
+6- Samba derlenecek
+
+7- vlc derlenecek
+
