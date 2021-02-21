@@ -2,7 +2,7 @@
 
 1- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
 
-2- Grub ve os-prober kontrol edilecek
+2- Grub ve os-prober kontrol edilecek (ubuntuyu görmüyor)
 
 3- Mservice çalışmıyor
 
