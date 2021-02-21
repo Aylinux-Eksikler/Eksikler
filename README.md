@@ -12,6 +12,6 @@
 
 6- Mservice çalışmıyor
 
-7- Stacer derlenecek (yapıldı)
+7- Stacer derlenecek 
 
 8- Flameshot incelenecek (yapıldı)
