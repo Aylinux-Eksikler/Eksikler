@@ -14,3 +14,5 @@
 
 7- vlc derlenecek
 
+8- plank derlenecek
+
