@@ -1,15 +1,10 @@
 # Tesbit edilen eksikler
 
-2- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
+1- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
 
-3- Kurulumdaki kartal resimleri değişecek
+2- Grub ve os-prober kontrol edilecek
 
-4- Grub ve os-prober kontrol edilecek
+3- Mservice çalışmıyor
 
-5- Masaüstü resmi
+4- Stacer derlenecek 
 
-6- Mservice çalışmıyor
-
-7- Stacer derlenecek 
-
-8- Flameshot incelenecek (yapıldı)
