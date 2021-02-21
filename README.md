@@ -1,6 +1,6 @@
 # Tesbit edilen eksikler
 
-1- Ses problemi
+1- Ses problemi (çözüldü)
 
 2- Masaüstü kurulum başlatıcı çalıştırılabilir yapılacak
 
