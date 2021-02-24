@@ -8,5 +8,5 @@
 
 7- vlc derlenecek
 
-8- plank derlenecek
+8- grub kurulumdan sonra türkçe değil
 
