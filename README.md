@@ -4,9 +4,9 @@
 
 3- Mservice çalışmıyor
 
-6- Samba derlenecek
+6- matede caja çalışmıyor menü normal değil fe font seçimi yapılacak
 
-7- vlc derlenecek
+7- gimp kontrol edilecek
 
 8- grub kurulumdan sonra türkçe değil
 
